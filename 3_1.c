@@ -8,6 +8,8 @@ int main(int argc, char const *argv[])
 	printf("%d div %d = %d\n", 2, 3, div(2,3));
 	printf("%d add %d = %d\n", 2, 3, add(2,3));
 
+	printf("end of main()");
+	
 	return 0;
 }
 
