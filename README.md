@@ -21,3 +21,7 @@ git branch -d 3.1_practice
 div 함수의 버그가 발견되었다. (issue 34)
 버그수정할 것.
 
+충돌만들기
+main()의 printf에 충돌만들자
+
+
