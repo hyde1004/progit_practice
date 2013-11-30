@@ -11,3 +11,13 @@ git branch
 touch 3_1.c 3_1.h Makefile
 git status
 git add 3_1.c 3_1.h Makefile README.md
+
+git checkout 3.1_practice
+
+git checkout master
+git merge 3.1_practice
+git branch -d 3.1_practice
+
+div 함수의 버그가 발견되었다. (issue 34)
+버그수정할 것.
+
