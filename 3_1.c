@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include "3_1.h"
 
-int div(int a, int b);
 int main(int argc, char const *argv[])
 {
 	/* code */
