@@ -40,5 +40,6 @@ int minus(int a, int b)
 
 int square(int a)
 {
+	
 	return a*a;
 }
